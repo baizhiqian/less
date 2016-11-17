@@ -1,0 +1,7 @@
+
+@blue: #4D926F; 
+@width:20px;
+#home{
+	color: @color; 
+}
+
